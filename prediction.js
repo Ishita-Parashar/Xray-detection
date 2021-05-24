@@ -1,5 +1,5 @@
 alert("model loaded");
-Access-Control-Allow-Origin: *
+Access-Control-Allow-Origin: https://github.com/Ishita-Parashar/Xray-detection/edit/main/prediction.js
 import { createRequire } from 'module';
 const require = createRequire(import.meta.url);
 var express = require('express');
